@@ -1,0 +1,90 @@
+
+mantide regina asset definitivo.png
+size: 1048,1043
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aculeo dx
+  rotate: false
+  xy: 588, 596
+  size: 91, 101
+  orig: 91, 101
+  offset: 0, 0
+  index: -1
+aculeo sx
+  rotate: true
+  xy: 681, 914
+  size: 127, 60
+  orig: 127, 60
+  offset: 0, 0
+  index: -1
+busto
+  rotate: false
+  xy: 2, 584
+  size: 584, 457
+  orig: 584, 457
+  offset: 0, 0
+  index: -1
+testa
+  rotate: false
+  xy: 762, 118
+  size: 218, 289
+  orig: 240, 289
+  offset: 22, 0
+  index: -1
+zampa corpo ant dx
+  rotate: false
+  xy: 681, 610
+  size: 55, 302
+  orig: 55, 302
+  offset: 0, 0
+  index: -1
+zampa corpo ant sx
+  rotate: true
+  xy: 383, 2
+  size: 64, 311
+  orig: 64, 311
+  offset: 0, 0
+  index: -1
+zampa corpo post dx
+  rotate: false
+  xy: 588, 739
+  size: 55, 302
+  orig: 55, 302
+  offset: 0, 0
+  index: -1
+zampa corpo post sx
+  rotate: true
+  xy: 696, 2
+  size: 64, 311
+  orig: 64, 311
+  offset: 0, 0
+  index: -1
+zampa dx
+  rotate: true
+  xy: 383, 68
+  size: 514, 377
+  orig: 514, 377
+  offset: 0, 0
+  index: -1
+zampa schiena dx
+  rotate: true
+  xy: 762, 409
+  size: 288, 270
+  orig: 288, 270
+  offset: 0, 0
+  index: -1
+zampa schiena sx
+  rotate: false
+  xy: 762, 699
+  size: 284, 342
+  orig: 284, 342
+  offset: 0, 0
+  index: -1
+zampa sx
+  rotate: false
+  xy: 2, 29
+  size: 379, 553
+  orig: 379, 553
+  offset: 0, 0
+  index: -1

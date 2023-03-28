@@ -1,0 +1,1814 @@
+fileFormatVersion: 2
+guid: e9424d98ffae65147983c7d2365d95ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -237391656915618863
+    second: tilemap catacombe 3 compiled_0
+  - first:
+      213: 6215214497125458263
+    second: tilemap catacombe 3 compiled_1
+  - first:
+      213: 78584782649157302
+    second: tilemap catacombe 3 compiled_2
+  - first:
+      213: 7039103030280910603
+    second: tilemap catacombe 3 compiled_3
+  - first:
+      213: 6317953986996090080
+    second: tilemap catacombe 3 compiled_4
+  - first:
+      213: -4089687330383833680
+    second: tilemap catacombe 3 compiled_5
+  - first:
+      213: 8020425763375235395
+    second: tilemap catacombe 3 compiled_6
+  - first:
+      213: -3866335063180127799
+    second: tilemap catacombe 3 compiled_7
+  - first:
+      213: 5000167712980113557
+    second: tilemap catacombe 3 compiled_8
+  - first:
+      213: -4190641960702403704
+    second: tilemap catacombe 3 compiled_9
+  - first:
+      213: 1765591169817487343
+    second: tilemap catacombe 3 compiled_10
+  - first:
+      213: 5990796327658881555
+    second: tilemap catacombe 3 compiled_11
+  - first:
+      213: 1049800075588032081
+    second: tilemap catacombe 3 compiled_12
+  - first:
+      213: 7880536833059138060
+    second: tilemap catacombe 3 compiled_13
+  - first:
+      213: 7835439168887093032
+    second: tilemap catacombe 3 compiled_14
+  - first:
+      213: -4889458392330458235
+    second: tilemap catacombe 3 compiled_15
+  - first:
+      213: -7471481003718049584
+    second: tilemap catacombe 3 compiled_16
+  - first:
+      213: 344194272164324043
+    second: tilemap catacombe 3 compiled_17
+  - first:
+      213: 7324341653581517393
+    second: tilemap catacombe 3 compiled_18
+  - first:
+      213: -4131818090556412208
+    second: tilemap catacombe 3 compiled_19
+  - first:
+      213: 6515155932064304899
+    second: tilemap catacombe 3 compiled_20
+  - first:
+      213: 4118888527423017618
+    second: tilemap catacombe 3 compiled_21
+  - first:
+      213: -2992112430371231370
+    second: tilemap catacombe 3 compiled_22
+  - first:
+      213: 2406688658224917207
+    second: tilemap catacombe 3 compiled_23
+  - first:
+      213: -1658117655297965706
+    second: tilemap catacombe 3 compiled_24
+  - first:
+      213: -8053037803052316747
+    second: tilemap catacombe 3 compiled_25
+  - first:
+      213: 9219242150466901398
+    second: tilemap catacombe 3 compiled_26
+  - first:
+      213: 836235572818708945
+    second: tilemap catacombe 3 compiled_27
+  - first:
+      213: -8067071133544621677
+    second: tilemap catacombe 3 compiled_28
+  - first:
+      213: 2615971818515325178
+    second: tilemap catacombe 3 compiled_29
+  - first:
+      213: -6885274201309753217
+    second: tilemap catacombe 3 compiled_30
+  - first:
+      213: -2625298322935799435
+    second: tilemap catacombe 3 compiled_31
+  - first:
+      213: 2286590805200424299
+    second: tilemap catacombe 3 compiled_32
+  - first:
+      213: -3627526450100874187
+    second: tilemap catacombe 3 compiled_33
+  - first:
+      213: -8348564559614859203
+    second: tilemap catacombe 3 compiled_34
+  - first:
+      213: -3672388019378503122
+    second: tilemap catacombe 3 compiled_35
+  - first:
+      213: 6733951943397242329
+    second: tilemap catacombe 3 compiled_36
+  - first:
+      213: 3436548513825124699
+    second: tilemap catacombe 3 compiled_37
+  - first:
+      213: -232722214189683107
+    second: tilemap catacombe 3 compiled_38
+  - first:
+      213: -5661352866236364192
+    second: tilemap catacombe 3 compiled_39
+  - first:
+      213: -6808802162315133569
+    second: tilemap catacombe 3 compiled_40
+  - first:
+      213: -2253354144649283518
+    second: tilemap catacombe 3 compiled_41
+  - first:
+      213: -5621012772800688452
+    second: tilemap catacombe 3 compiled_42
+  - first:
+      213: -4219833620789880891
+    second: tilemap catacombe 3 compiled_43
+  - first:
+      213: -8520402648274614549
+    second: tilemap catacombe 3 compiled_44
+  - first:
+      213: -866862124989308556
+    second: tilemap catacombe 3 compiled_45
+  - first:
+      213: 1719845574452720201
+    second: tilemap catacombe 3 compiled_46
+  - first:
+      213: -2257479699320108834
+    second: tilemap catacombe 3 compiled_47
+  - first:
+      213: -8727464945951587848
+    second: tilemap catacombe 3 compiled_48
+  - first:
+      213: -1874852863194045383
+    second: tilemap catacombe 3 compiled_49
+  - first:
+      213: 1077700395212308941
+    second: tilemap catacombe 3 compiled_50
+  - first:
+      213: -6463672076699655204
+    second: tilemap catacombe 3 compiled_51
+  - first:
+      213: 5096427593080213512
+    second: tilemap catacombe 3 compiled_52
+  - first:
+      213: 14269226482490389
+    second: tilemap catacombe 3 compiled_53
+  - first:
+      213: -5391594373410162445
+    second: tilemap catacombe 3 compiled_54
+  - first:
+      213: 2898734418927097323
+    second: tilemap catacombe 3 compiled_55
+  - first:
+      213: -917160479286923152
+    second: tilemap catacombe 3 compiled_56
+  - first:
+      213: 56979977719827307
+    second: tilemap catacombe 3 compiled_57
+  - first:
+      213: 522919515780687557
+    second: tilemap catacombe 3 compiled_58
+  - first:
+      213: -2749709006065752824
+    second: tilemap catacombe 3 compiled_59
+  - first:
+      213: 962592945262907268
+    second: tilemap catacombe 3 compiled_60
+  - first:
+      213: -7057568479806330799
+    second: tilemap catacombe 3 compiled_61
+  - first:
+      213: -1344740254139177208
+    second: tilemap catacombe 3 compiled_62
+  - first:
+      213: 4665536604351709710
+    second: tilemap catacombe 3 compiled_63
+  - first:
+      213: 2552290245684952469
+    second: tilemap catacombe 3 compiled_64
+  - first:
+      213: 7821730700095323822
+    second: tilemap catacombe 3 compiled_65
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -176, y: 180}
+        - {x: -180, y: 175}
+        - {x: -180, y: -180}
+        - {x: 180, y: -180}
+        - {x: 180, y: 175}
+        - {x: 175, y: 180}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d337e8bb8d94bcf0800000000000000
+      internalID: -237391656915618863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -180, y: 180}
+        - {x: -180, y: -180}
+        - {x: 180, y: -180}
+        - {x: 180, y: 180}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7516500d7a0e04650800000000000000
+      internalID: 6215214497125458263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: -59}
+        - {x: 36, y: 7}
+        - {x: 37, y: 115}
+        - {x: 48, y: 121}
+        - {x: 48, y: 160}
+        - {x: 46, y: 173}
+        - {x: 44, y: 180}
+        - {x: -180, y: 180}
+        - {x: -180, y: -180}
+        - {x: 32, y: -180}
+        - {x: 32, y: -176}
+        - {x: 35, y: -168}
+        - {x: 35, y: -126}
+      - - {x: 38, y: -57}
+        - {x: 38, y: -56}
+        - {x: 41, y: -56}
+        - {x: 41, y: -57}
+      physicsShape:
+      - - {x: 37, y: -57}
+        - {x: 30, y: -45}
+        - {x: 34, y: -16}
+        - {x: 36, y: 11}
+        - {x: 35, y: 68}
+        - {x: 47, y: 113}
+        - {x: 47, y: 175}
+        - {x: 35, y: 180}
+        - {x: -180, y: 180}
+        - {x: -180, y: -180}
+        - {x: 34, y: -180}
+        - {x: 34, y: -169}
+        - {x: 33, y: -132}
+        - {x: 38, y: -107}
+      tessellationDetail: 0.22
+      bones: []
+      spriteID: 6b6ed868170371100800000000000000
+      internalID: 78584782649157302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07f44949eaefa160800000000000000
+      internalID: 7039103030280910603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_4
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e43a2e5da1eda750800000000000000
+      internalID: 6317953986996090080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_5
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b55e068a038e37c0800000000000000
+      internalID: -4089687330383833680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_6
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3414f5ddcb64e4f60800000000000000
+      internalID: 8020425763375235395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_7
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1d288aeb4085ac0800000000000000
+      internalID: -3866335063180127799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_8
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5989e8dfa0a246540800000000000000
+      internalID: 5000167712980113557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_9
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2160
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b9c77f659d7d5c0800000000000000
+      internalID: -4190641960702403704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -180, y: 180}
+        - {x: -180, y: -180}
+        - {x: 180, y: -180}
+        - {x: 180, y: 180}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7a98f70d3a08810800000000000000
+      internalID: 1765591169817487343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -180, y: 180}
+        - {x: -180, y: -180}
+        - {x: 180, y: -180}
+        - {x: 180, y: 180}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31282d7f485932350800000000000000
+      internalID: 5990796327658881555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121, y: 34}
+        - {x: 66, y: 38}
+        - {x: 44, y: 61}
+        - {x: 31, y: 62}
+        - {x: 32, y: 173}
+        - {x: 32, y: 180}
+        - {x: -180, y: 180}
+        - {x: -180, y: -180}
+        - {x: 180, y: -180}
+        - {x: 180, y: 28}
+        - {x: 175, y: 31}
+      physicsShape:
+      - - {x: 170, y: 32}
+        - {x: 135, y: 32}
+        - {x: 128, y: 27}
+        - {x: 118, y: 36}
+        - {x: 81, y: 36}
+        - {x: 63, y: 34}
+        - {x: 61, y: 39}
+        - {x: 58, y: 46}
+        - {x: 51, y: 55}
+        - {x: 44, y: 59}
+        - {x: 25, y: 62}
+        - {x: 25, y: 92}
+        - {x: 23, y: 100}
+        - {x: 18, y: 107}
+        - {x: 26, y: 110}
+        - {x: 28, y: 112}
+        - {x: 33, y: 123}
+        - {x: 34, y: 170}
+        - {x: 34, y: 180}
+        - {x: -180, y: 180}
+        - {x: -180, y: -180}
+        - {x: 180, y: -180}
+        - {x: 180, y: 25}
+        - {x: 175, y: 30}
+      tessellationDetail: 0.49
+      bones: []
+      spriteID: 1565a9e4b93a19e00800000000000000
+      internalID: 1049800075588032081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_13
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 180}
+        - {x: -32, y: 176}
+        - {x: -34, y: 162}
+        - {x: -34, y: 141}
+        - {x: -33, y: 136}
+        - {x: -30, y: 128}
+        - {x: -37, y: 119}
+        - {x: -37, y: 81}
+        - {x: -36, y: 72}
+        - {x: -44, y: 61}
+        - {x: -55, y: 53}
+        - {x: -58, y: 45}
+        - {x: -66, y: 27}
+        - {x: -92, y: 27}
+        - {x: -101, y: 24}
+        - {x: -121, y: 34}
+        - {x: -145, y: 35}
+        - {x: -173, y: 33}
+        - {x: -180, y: 28}
+        - {x: -180, y: -180}
+        - {x: 180, y: -180}
+        - {x: 180, y: 180}
+      physicsShape: []
+      tessellationDetail: 0.33
+      bones: []
+      spriteID: c0a2fdd2f7a4d5d60800000000000000
+      internalID: 7880536833059138060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_14
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82772b009621dbc60800000000000000
+      internalID: 7835439168887093032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_15
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b27156f77252cb0800000000000000
+      internalID: -4889458392330458235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_16
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d08e4bdc97ff4890800000000000000
+      internalID: -7471481003718049584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_17
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2241eedd2d6c400800000000000000
+      internalID: 344194272164324043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_18
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152d25b8de945a560800000000000000
+      internalID: 7324341653581517393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_19
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1800
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de2ad38655d8a6c0800000000000000
+      internalID: -4131818090556412208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -180, y: 180}
+        - {x: -180, y: -180}
+        - {x: 180, y: -180}
+        - {x: 180, y: 180}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fc8fa2dcb7a6a50800000000000000
+      internalID: 6515155932064304899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -177, y: 180}
+        - {x: -180, y: 176}
+        - {x: -180, y: -180}
+        - {x: 180, y: -180}
+        - {x: 180, y: 180}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2921b7afa4b392930800000000000000
+      internalID: 4118888527423017618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67921b3f891e976d0800000000000000
+      internalID: -2992112430371231370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_23
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da257e5596466120800000000000000
+      internalID: 2406688658224917207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_24
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671492017ce2df8e0800000000000000
+      internalID: -1658117655297965706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_25
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b74642f8ccdd3090800000000000000
+      internalID: -8053037803052316747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_26
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69553e4e3e351ff70800000000000000
+      internalID: 9219242150466901398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_27
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9876aa2d7ea9b00800000000000000
+      internalID: 836235572818708945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_28
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399d3439b810c0090800000000000000
+      internalID: -8067071133544621677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_29
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1440
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af0e909428ccd4420800000000000000
+      internalID: 2615971818515325178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -180, y: 180}
+        - {x: -180, y: -180}
+        - {x: 180, y: -180}
+        - {x: 180, y: 176}
+        - {x: 178, y: 180}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7055c9f7979270a0800000000000000
+      internalID: -6885274201309753217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -178, y: 180}
+        - {x: -180, y: 177}
+        - {x: -180, y: -180}
+        - {x: 180, y: -180}
+        - {x: 180, y: 175}
+        - {x: 176, y: 180}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571abffa511119bd0800000000000000
+      internalID: -2625298322935799435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_32
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d45a2f83a9bbf10800000000000000
+      internalID: 2286590805200424299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_33
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5345760c9ef68adc0800000000000000
+      internalID: -3627526450100874187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_34
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38adbff3c0f32c80800000000000000
+      internalID: -8348564559614859203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_35
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e224b83bd8e090dc0800000000000000
+      internalID: -3672388019378503122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_36
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d57eb05d9dc37d50800000000000000
+      internalID: 6733951943397242329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_37
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5171fb6aa211bf20800000000000000
+      internalID: 3436548513825124699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_38
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ea1e3116435ccf0800000000000000
+      internalID: -232722214189683107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_39
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a87d33095de61b0800000000000000
+      internalID: -5661352866236364192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d7b4902864281a0800000000000000
+      internalID: -6808802162315133569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_41
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248760f185a7ab0e0800000000000000
+      internalID: -2253354144649283518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe084f1aa62ef1b0800000000000000
+      internalID: -5621012772800688452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_43
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c79195fda32075c0800000000000000
+      internalID: -4219833620789880891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_44
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be64b463fe271c980800000000000000
+      internalID: -8520402648274614549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_45
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471a5ca7d7948f3f0800000000000000
+      internalID: -866862124989308556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_46
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94238c5107e1ed710800000000000000
+      internalID: 1719845574452720201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_47
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed88e529c22dba0e0800000000000000
+      internalID: -2257479699320108834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1c1ea2fd0d1e680800000000000000
+      internalID: -8727464945951587848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_49
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934e13b114f2bf5e0800000000000000
+      internalID: -1874852863194045383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_50
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc18deeacc2c4fe00800000000000000
+      internalID: 1077700395212308941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_51
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3a4b30e7c6c46a0800000000000000
+      internalID: -6463672076699655204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_52
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8009b05d4e52ab640800000000000000
+      internalID: 5096427593080213512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_53
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c55bf29c1b23000800000000000000
+      internalID: 14269226482490389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_54
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f874e7bb753d25b0800000000000000
+      internalID: -5391594373410162445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_55
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be5195a889f5a3820800000000000000
+      internalID: 2898734418927097323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_56
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070731647679543f0800000000000000
+      internalID: -917160479286923152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bcc43ecfe6ac000800000000000000
+      internalID: 56979977719827307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_58
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c62a307788c14700800000000000000
+      internalID: 522919515780687557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_59
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80522c14a3217d9d0800000000000000
+      internalID: -2749709006065752824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_60
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f41b50f21db5d00800000000000000
+      internalID: 962592945262907268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_61
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15866273cda7e0e90800000000000000
+      internalID: -7057568479806330799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_62
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807add41dd5865de0800000000000000
+      internalID: -1344740254139177208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_63
+      rect:
+        serializedVersion: 2
+        x: 2520
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0247f492d05fb040800000000000000
+      internalID: 4665536604351709710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_64
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dfeb1b47e8b6320800000000000000
+      internalID: 2552290245684952469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilemap catacombe 3 compiled_65
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaef2f361ae5c8c60800000000000000
+      internalID: 7821730700095323822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

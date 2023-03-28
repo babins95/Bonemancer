@@ -1,0 +1,13 @@
+
+piantine ASSET 2.png
+size: 699,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pianta intera
+  rotate: false
+  xy: 2, 2
+  size: 695, 504
+  orig: 696, 504
+  offset: 1, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+ASSET SPINA E TESTA.png
+size: 637,436
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Livello 1
+  rotate: false
+  xy: 2, 60
+  size: 369, 374
+  orig: 456, 374
+  offset: 87, 0
+  index: -1
+Livello 4
+  rotate: false
+  xy: 373, 2
+  size: 262, 432
+  orig: 262, 432
+  offset: 0, 0
+  index: -1

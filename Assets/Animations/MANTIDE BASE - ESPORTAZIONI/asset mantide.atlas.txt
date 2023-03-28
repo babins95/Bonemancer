@@ -1,0 +1,83 @@
+
+asset mantide.png
+size: 664,1084
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Livello 16
+  rotate: true
+  xy: 2, 116
+  size: 453, 150
+  orig: 453, 150
+  offset: 0, 0
+  index: -1
+images/antenne
+  rotate: true
+  xy: 455, 46
+  size: 242, 190
+  orig: 242, 190
+  offset: 0, 0
+  index: -1
+images/busto sopra
+  rotate: false
+  xy: 307, 27
+  size: 146, 177
+  orig: 146, 177
+  offset: 0, 0
+  index: -1
+images/busto sotto
+  rotate: true
+  xy: 456, 290
+  size: 371, 197
+  orig: 538, 295
+  offset: 166, 0
+  index: -1
+images/gamba media dx
+  rotate: false
+  xy: 307, 206
+  size: 146, 299
+  orig: 146, 299
+  offset: 0, 0
+  index: -1
+images/gamba media sx
+  rotate: false
+  xy: 329, 507
+  size: 125, 311
+  orig: 126, 311
+  offset: 0, 0
+  index: -1
+images/gamba posteriore dx
+  rotate: false
+  xy: 154, 256
+  size: 102, 313
+  orig: 103, 314
+  offset: 0, 1
+  index: -1
+images/gsmba posteriore sx
+  rotate: true
+  xy: 2, 2
+  size: 112, 303
+  orig: 591, 524
+  offset: 477, 0
+  index: -1
+images/testa
+  rotate: false
+  xy: 2, 571
+  size: 325, 247
+  orig: 515, 776
+  offset: 135, 356
+  index: -1
+images/zampa ansteriore sx
+  rotate: true
+  xy: 2, 820
+  size: 262, 464
+  orig: 395, 464
+  offset: 133, 0
+  index: -1
+images/zampa anteriore dx
+  rotate: true
+  xy: 468, 663
+  size: 419, 194
+  orig: 743, 365
+  offset: 0, 171
+  index: -1
