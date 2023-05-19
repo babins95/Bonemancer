@@ -201,7 +201,7 @@ TextureImporter:
       213: 7821730700095323822
     second: tilemap catacombe 3 compiled_65
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -221,6 +221,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -229,9 +231,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -252,10 +254,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -271,6 +277,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1806,6 +1824,73 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      tilemap catacombe 3 compiled_41: -2253354144649283518
+      tilemap catacombe 3 compiled_1: 6215214497125458263
+      tilemap catacombe 3 compiled_2: 78584782649157302
+      tilemap catacombe 3 compiled_3: 7039103030280910603
+      tilemap catacombe 3 compiled_17: 344194272164324043
+      tilemap catacombe 3 compiled_34: -8348564559614859203
+      tilemap catacombe 3 compiled_55: 2898734418927097323
+      tilemap catacombe 3 compiled_50: 1077700395212308941
+      tilemap catacombe 3 compiled_65: 7821730700095323822
+      tilemap catacombe 3 compiled_10: 1765591169817487343
+      tilemap catacombe 3 compiled_13: 7880536833059138060
+      tilemap catacombe 3 compiled_25: -8053037803052316747
+      tilemap catacombe 3 compiled_46: 1719845574452720201
+      tilemap catacombe 3 compiled_22: -2992112430371231370
+      tilemap catacombe 3 compiled_36: 6733951943397242329
+      tilemap catacombe 3 compiled_58: 522919515780687557
+      tilemap catacombe 3 compiled_48: -8727464945951587848
+      tilemap catacombe 3 compiled_54: -5391594373410162445
+      tilemap catacombe 3 compiled_40: -6808802162315133569
+      tilemap catacombe 3 compiled_20: 6515155932064304899
+      tilemap catacombe 3 compiled_43: -4219833620789880891
+      tilemap catacombe 3 compiled_62: -1344740254139177208
+      tilemap catacombe 3 compiled_59: -2749709006065752824
+      tilemap catacombe 3 compiled_31: -2625298322935799435
+      tilemap catacombe 3 compiled_45: -866862124989308556
+      tilemap catacombe 3 compiled_7: -3866335063180127799
+      tilemap catacombe 3 compiled_30: -6885274201309753217
+      tilemap catacombe 3 compiled_63: 4665536604351709710
+      tilemap catacombe 3 compiled_28: -8067071133544621677
+      tilemap catacombe 3 compiled_12: 1049800075588032081
+      tilemap catacombe 3 compiled_29: 2615971818515325178
+      tilemap catacombe 3 compiled_38: -232722214189683107
+      tilemap catacombe 3 compiled_47: -2257479699320108834
+      tilemap catacombe 3 compiled_51: -6463672076699655204
+      tilemap catacombe 3 compiled_4: 6317953986996090080
+      tilemap catacombe 3 compiled_16: -7471481003718049584
+      tilemap catacombe 3 compiled_19: -4131818090556412208
+      tilemap catacombe 3 compiled_27: 836235572818708945
+      tilemap catacombe 3 compiled_52: 5096427593080213512
+      tilemap catacombe 3 compiled_14: 7835439168887093032
+      tilemap catacombe 3 compiled_24: -1658117655297965706
+      tilemap catacombe 3 compiled_44: -8520402648274614549
+      tilemap catacombe 3 compiled_15: -4889458392330458235
+      tilemap catacombe 3 compiled_39: -5661352866236364192
+      tilemap catacombe 3 compiled_61: -7057568479806330799
+      tilemap catacombe 3 compiled_0: -237391656915618863
+      tilemap catacombe 3 compiled_8: 5000167712980113557
+      tilemap catacombe 3 compiled_56: -917160479286923152
+      tilemap catacombe 3 compiled_18: 7324341653581517393
+      tilemap catacombe 3 compiled_9: -4190641960702403704
+      tilemap catacombe 3 compiled_64: 2552290245684952469
+      tilemap catacombe 3 compiled_33: -3627526450100874187
+      tilemap catacombe 3 compiled_23: 2406688658224917207
+      tilemap catacombe 3 compiled_57: 56979977719827307
+      tilemap catacombe 3 compiled_6: 8020425763375235395
+      tilemap catacombe 3 compiled_11: 5990796327658881555
+      tilemap catacombe 3 compiled_26: 9219242150466901398
+      tilemap catacombe 3 compiled_21: 4118888527423017618
+      tilemap catacombe 3 compiled_32: 2286590805200424299
+      tilemap catacombe 3 compiled_5: -4089687330383833680
+      tilemap catacombe 3 compiled_49: -1874852863194045383
+      tilemap catacombe 3 compiled_53: 14269226482490389
+      tilemap catacombe 3 compiled_60: 962592945262907268
+      tilemap catacombe 3 compiled_42: -5621012772800688452
+      tilemap catacombe 3 compiled_35: -3672388019378503122
+      tilemap catacombe 3 compiled_37: 3436548513825124699
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

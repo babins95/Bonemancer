@@ -288,7 +288,7 @@ TextureImporter:
       213: -3403982210085121049
     second: colonne mantide e poleschio_94
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -308,6 +308,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -316,9 +318,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -339,10 +341,14 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -370,6 +376,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 4096
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2388,6 +2406,102 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      colonne mantide e poleschio_70: 2146757275541762062
+      colonne mantide e poleschio_33: -596355506885448624
+      colonne mantide e poleschio_16: 8426758882960593943
+      colonne mantide e poleschio_43: -4617184651049669841
+      colonne mantide e poleschio_44: 6365346252328643948
+      colonne mantide e poleschio_71: -5001935079478126702
+      colonne mantide e poleschio_89: -2279990141890432605
+      colonne mantide e poleschio_77: 5543317255169568398
+      colonne mantide e poleschio_55: -4717287865320895220
+      colonne mantide e poleschio_25: 9109489557729317204
+      colonne mantide e poleschio_60: -1628246097405645598
+      colonne mantide e poleschio_36: 5813578102299574129
+      colonne mantide e poleschio_74: 2036464097500180119
+      colonne mantide e poleschio_41: -8041724087376006614
+      colonne mantide e poleschio_81: -5659406926364764306
+      colonne mantide e poleschio_63: -3356210567571659159
+      colonne mantide e poleschio_80: -9016205151560901411
+      colonne mantide e poleschio_86: -7732772041150541398
+      colonne mantide e poleschio_4: -2318918940306297357
+      colonne mantide e poleschio_57: 4154791038644803403
+      colonne mantide e poleschio_11: -769630559059867310
+      colonne mantide e poleschio_85: 6347000564896294943
+      colonne mantide e poleschio_92: -1227345237532436721
+      colonne mantide e poleschio_69: 8122648878114910063
+      colonne mantide e poleschio_40: 2887204895252873817
+      colonne mantide e poleschio_27: 8137298779273626018
+      colonne mantide e poleschio_52: 4782225111638957799
+      colonne mantide e poleschio_22: -4833916124707684876
+      colonne mantide e poleschio_61: -6338096871975796422
+      colonne mantide e poleschio_10: 7867265227037371002
+      colonne mantide e poleschio_94: -3403982210085121049
+      colonne mantide e poleschio_79: 24640651201118146
+      colonne mantide e poleschio_45: -7416488279564767924
+      colonne mantide e poleschio_67: 950110813889335240
+      colonne mantide e poleschio_12: -936171620975487145
+      colonne mantide e poleschio_56: 1210023643061104042
+      colonne mantide e poleschio_23: -3756065765187506566
+      colonne mantide e poleschio_49: 468232754054082573
+      colonne mantide e poleschio_7: -7140459546023080253
+      colonne mantide e poleschio_68: 7541977805354246319
+      colonne mantide e poleschio_2: 4809921427990143710
+      colonne mantide e poleschio_15: -8631304002792563809
+      colonne mantide e poleschio_82: 8691800500021565223
+      colonne mantide e poleschio_50: 3126333208091136818
+      colonne mantide e poleschio_78: 6197772194775562912
+      colonne mantide e poleschio_42: 1972552438468970297
+      colonne mantide e poleschio_20: 6870647294620996631
+      colonne mantide e poleschio_62: -8435172393231071280
+      colonne mantide e poleschio_39: -6053750304465537887
+      colonne mantide e poleschio_66: 8781833970405338352
+      colonne mantide e poleschio_19: 6266921099607084376
+      colonne mantide e poleschio_58: 8404022368077254756
+      colonne mantide e poleschio_9: -5669279584637834755
+      colonne mantide e poleschio_93: 8207101426354371768
+      colonne mantide e poleschio_5: 1757736051200598311
+      colonne mantide e poleschio_64: -2803784411219864467
+      colonne mantide e poleschio_87: 1594617970150843476
+      colonne mantide e poleschio_59: 2730124425994264916
+      colonne mantide e poleschio_83: 4921949638591203380
+      colonne mantide e poleschio_13: -2584972942356361158
+      colonne mantide e poleschio_3: -676364303513734085
+      colonne mantide e poleschio_1: 4065448516788867789
+      colonne mantide e poleschio_29: -8936925625395518428
+      colonne mantide e poleschio_91: 7039007637012718301
+      colonne mantide e poleschio_38: 2150006726861269196
+      colonne mantide e poleschio_48: 4010028085214989709
+      colonne mantide e poleschio_72: 6986466238542419783
+      colonne mantide e poleschio_90: 6917419649845424813
+      colonne mantide e poleschio_24: -4735483154334219925
+      colonne mantide e poleschio_65: 5368661631535229470
+      colonne mantide e poleschio_37: -93823870656221105
+      colonne mantide e poleschio_28: 3248350835277193395
+      colonne mantide e poleschio_6: -5052997526794560651
+      colonne mantide e poleschio_26: 8951522639707257434
+      colonne mantide e poleschio_17: -8959023184450032915
+      colonne mantide e poleschio_31: -6752409528991003749
+      colonne mantide e poleschio_34: -8738537633167817561
+      colonne mantide e poleschio_35: 7576774226750027338
+      colonne mantide e poleschio_53: -6340215495275661925
+      colonne mantide e poleschio_73: 1398513605934446563
+      colonne mantide e poleschio_32: 3570862750390278084
+      colonne mantide e poleschio_18: 8570513230175975345
+      colonne mantide e poleschio_76: -6117511742382683539
+      colonne mantide e poleschio_8: -4732095697473067714
+      colonne mantide e poleschio_30: 4023015694863101803
+      colonne mantide e poleschio_88: -5518158485352524771
+      colonne mantide e poleschio_47: -1081219722208617390
+      colonne mantide e poleschio_84: 5777191461603649028
+      colonne mantide e poleschio_51: 8848634014071965677
+      colonne mantide e poleschio_0: 7069631790067363849
+      colonne mantide e poleschio_54: 2322210116545040765
+      colonne mantide e poleschio_14: 1404981900934979834
+      colonne mantide e poleschio_21: 8033533173026034170
+      colonne mantide e poleschio_75: 2087090616408386472
+      colonne mantide e poleschio_46: 3012290485758006685
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

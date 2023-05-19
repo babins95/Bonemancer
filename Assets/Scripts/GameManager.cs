@@ -95,4 +95,5 @@ public class GameManager : MonoBehaviour
         pauseMenu.gameObject.SetActive(false);
         sceneTexts.gameObject.SetActive(true);
     }
+
 }
